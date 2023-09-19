@@ -3,9 +3,9 @@
     <body>
         <div>
             <ul>
-                <li>fructe</li>
-                <li>legume</li>
-                <li>caca</li>
+                <li>meu</li>
+                <li>fratele<l/li>
+                <li>hei</li>
             </ul>
         </div>
     </body>
